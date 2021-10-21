@@ -1,0 +1,13 @@
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.exe
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.csprojAssemblyReference.cache
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.AssemblyInfoInputs.cache
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.AssemblyInfo.cs
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.deps.json
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.runtimeconfig.json
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.runtimeconfig.dev.json
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.dll
+C:\Visual Stadio\HarbourManagement\bin\Debug\netcoreapp3.1\HarbourManagement.pdb
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.dll
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.pdb
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.genruntimeconfig.cache
+C:\Visual Stadio\HarbourManagement\obj\Debug\netcoreapp3.1\HarbourManagement.csproj.CoreCompileInputs.cache
